@@ -1,12 +1,13 @@
 ### Hi there 👋
 - 🔭 Hoje trabalho com desenvolvimento de testes automatizados...
+- 🌱 Em constante aprendizado: Kotlin, Flutter, python...
 
  <div>
   <a href="https://github.com/ThiagoMalcher">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMalcher&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMalcher&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMalcher&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
+  ## 
   <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"> 
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -25,7 +26,7 @@
 
   ## 
   <div> 
-    <a href="mailto:malcher.tm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="mailto:malcher.tm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">           </a>
     <a href="https://www.linkedin.com/in/thiago-malcher-94267916b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
