@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 Hoje trabalho com desenvolvimento de testes automatizados...
-- 🌱 Em constante aprendizado: Kotlin, Flutter, Python...
    
  <div>
   <a href="https://github.com/ThiagoMalcher">
